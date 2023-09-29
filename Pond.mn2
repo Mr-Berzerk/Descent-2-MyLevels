@@ -1,0 +1,26 @@
+name = The Pond
+type = normal
+num_levels = 1
+pond.rl2
+num_secrets = 0
+editor = Descent Mission Builder II
+build_time = 
+revision = 9/11/98 Version 1.2
+author = Berzerk
+web_site = 
+email = berzerk_j@hotmail.com
+date = 7/3/98
+briefing = Out in the open
+custom_textures = yes
+custom_robots = yes
+custom_music = no
+normal = yes
+anarchy = yes
+robo_anarchy = yes
+coop = yes
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = no
+; This level was desihned to bring the effects of Descent III into 
+; Descent II

@@ -1,0 +1,25 @@
+name = Diamond Cutter
+type = normal
+num_levels = 1
+diamond.rl2
+num_secrets = 0
+editor = Descent Mission Builder II
+build_time = Months
+revision = 
+author = Jeremy Williamson
+web_site = 
+email = berzerk_j@hotmail.com
+date = February 24, 1999
+briefing = 
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = yes
+anarchy = yes
+robo_anarchy = yes
+coop = yes
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = yes
+; Take one of the routs. You can't take all 4.

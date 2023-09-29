@@ -1,0 +1,8 @@
+name = Shake Fest {{{2000}}}
+type = normal
+num_levels = 1
+shkfst2k.rl2
+; Vertigo levels allow you to use 12 robots in addition
+; to the 66 standard Descent II robots.  But, these robots will
+; not appear in the game unless you play the "Descent 2: Vertigo"
+; mission after you start Descent II and before you play your level.

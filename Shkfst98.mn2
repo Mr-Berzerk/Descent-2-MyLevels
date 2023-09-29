@@ -1,0 +1,26 @@
+name = Shake Fest {{{98}}}
+type = normal
+num_levels = 1
+SHAKFEST.rl2
+num_secrets = 0
+editor = Berzerk
+build_time = 
+revision = 
+author = 
+web_site = 
+email = berzerk_j@hotmail.com
+date = 
+briefing = Shake:To move rapidly in all directions
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = yes
+robo_anarchy = no
+coop = no
+capture_flag = yes
+hoard = yes
+multi_author = no
+want_feedback = yes
+; This level was designed for all those people that like shaker 
+; missiles. 

@@ -1,0 +1,25 @@
+name = Combat Delux {2}
+type = anarchy
+num_levels = 1
+combat2.rl2
+num_secrets = 0
+editor = 
+build_time = 
+revision = 
+author = 
+web_site = 
+email = 
+date = 
+briefing = 
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = yes
+robo_anarchy = yes
+coop = no
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = no
+; 

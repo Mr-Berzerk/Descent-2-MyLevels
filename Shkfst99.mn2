@@ -1,0 +1,25 @@
+name = Shake Fest {{{99}}}
+type = anarchy
+num_levels = 1
+shkfst99.rl2
+num_secrets = 0
+editor = DMB2
+build_time = 
+revision = 
+author = Berzerk
+web_site = 
+email = berzerk_j@hotmail.com
+date = 
+briefing = 
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = yes
+robo_anarchy = no
+coop = no
+capture_flag = yes
+hoard = yes
+multi_author = no
+want_feedback = no
+; 
