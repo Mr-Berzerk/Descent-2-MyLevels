@@ -1,0 +1,31 @@
+name = Descent 2: Cover Up
+type = normal
+num_levels = 5
+cover-1.rl2
+cover-2.rl2
+cover-3.rl2
+cover-4.rl2
+cover-5.rl2
+num_secrets = 2
+cover-s1.rl2,2
+cover-s2.rl2,4
+editor = 
+build_time = 
+revision = 
+author = 
+web_site = 
+email = 
+date = 
+briefing = cover.txb
+custom_textures = yes
+custom_robots = no
+custom_music = no
+normal = no
+anarchy = no
+robo_anarchy = no
+coop = no
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = no
+; 
